@@ -1,1 +1,86 @@
-function _0x266b(){const _0x5d7646=['NG\x20MODULES','tEaHF','71608HbgFkY','\x0a%1\x0aPREFIX','GxbDe','YXNkZmFzZG','floor','getNameUse','BOT:\x20%4\x0aFA','==========','129uhHyWR','config','BOTNAME','LL\x20MODULES','listAdmin','ADMINBOT','slice','HH:MM:ss\x20L','length','ezone','NQmbA','now','bot','wSZan','====\x0a\x20TIME','data','cache','ST:\x20%5\x20\x0aPI','jbIzK','keys','fGwkX',':\x20%3\x20\x0aNAME','format','YXNkZmhrYW','getSpeed','EUjsU','AST:\x20%5\x20\x0aP','ING:\x20%6\x20\x0aA','test','348YTbBBA','size','run','6645989IWjOTG','Asia/Ho_Ch','UNITS','Mbps','i_minh','yPtlM','sendMessag','fs-extra',':\x20%3\x20\x0aTÊN\x20','resolve','xmbnNkYWZo','FnpJr','client','PREFIX','3230730YDQfrE','\x20BOT:\x20%4\x0aF','QXpgM','exports','languages','fast-speed','moment-tim','test-api','3098AsQEsX','1.0.1','nodemodule','azzIY','NG:\x20%6\x20\x0aTỔ','push','cUfIW','199260nOYBUA','datoccho','2892992CUUGAX','values',':\x20%2\x0aADMIN','join',':\x20%7','15427323eXgLKX'];_0x266b=function(){return _0x5d7646;};return _0x266b();}function _0x2b22(_0x2e1b67,_0x26accd){const _0x2f8ade=_0x266b();return _0x2b22=function(_0x21c3ea,_0x242c46){_0x21c3ea=_0x21c3ea-(-0x49e+0x2347+-0x1dcf);let _0x3bfe8a=_0x2f8ade[_0x21c3ea];return _0x3bfe8a;},_0x2b22(_0x2e1b67,_0x26accd);}const _0x4868e3=_0x2b22;(function(_0x16021a,_0x2d92f4){const _0x3a09a4=_0x2b22,_0x4b0749=_0x16021a();while(!![]){try{const _0x360971=parseInt(_0x3a09a4(0xfa))/(-0x182a+0x1e2e+-0x201*0x3)*(-parseInt(_0x3a09a4(0xe1))/(-0xc6e*0x2+-0x7c5+0xae1*0x3))+-parseInt(_0x3a09a4(0x113))/(-0x1c9f+0xa0a+-0x154*-0xe)*(-parseInt(_0x3a09a4(0x10b))/(0x18cf+0xcd*-0x29+0x80a))+parseInt(_0x3a09a4(0xf2))/(0x1c51+0x979+-0x25c5)+parseInt(_0x3a09a4(0x101))/(-0x1*0x96b+0x7*0x233+-0x5f4)+parseInt(_0x3a09a4(0xe4))/(-0x57*-0x53+-0x1da1+0x35*0x7)+parseInt(_0x3a09a4(0x103))/(0x1*0x24bd+-0x1*0xff4+-0x14c1)+-parseInt(_0x3a09a4(0x108))/(-0xa3d+-0x88*-0x1a+-0x38a);if(_0x360971===_0x2d92f4)break;else _0x4b0749['push'](_0x4b0749['shift']());}catch(_0x10707e){_0x4b0749['push'](_0x4b0749['shift']());}}}(_0x266b,-0xf667e+-0x1f99*-0x5d+0x2017*0x5d),module[_0x4868e3(0xf5)][_0x4868e3(0x114)]={'name':_0x4868e3(0x11f),'version':_0x4868e3(0xfb),'hasPermssion':0x0,'credits':_0x4868e3(0x102),'description':_0x4868e3(0xe0),'commandCategory':_0x4868e3(0xe0),'usages':_0x4868e3(0xe0),'cooldowns':0x5},module[_0x4868e3(0xf5)][_0x4868e3(0xf6)]={'vi':{'listAdmin':_0x4868e3(0x112)+_0x4868e3(0x121)+_0x4868e3(0x105)+_0x4868e3(0x10c)+_0x4868e3(0xec)+_0x4868e3(0x111)+_0x4868e3(0x124)+_0x4868e3(0xfe)+_0x4868e3(0x109)+_0x4868e3(0x107)},'en':{'listAdmin':_0x4868e3(0x112)+_0x4868e3(0x121)+_0x4868e3(0x105)+_0x4868e3(0x10c)+_0x4868e3(0x128)+_0x4868e3(0xf3)+_0x4868e3(0xde)+_0x4868e3(0xdf)+_0x4868e3(0x116)+_0x4868e3(0x107)}},module[_0x4868e3(0xf5)][_0x4868e3(0xe3)]=async function({api:_0x36e64b,event:_0x1d3466,args:_0x46cc96,Users:_0x3160f8,permssion:_0x50a337,getText:_0x2356d6}){const _0x567d56=_0x4868e3,_0x5dc16f={'GxbDe':_0x567d56(0xeb),'azzIY':function(_0x54fac6,_0x14cf01){return _0x54fac6(_0x14cf01);},'fGwkX':_0x567d56(0xf7)+_0x567d56(0xf9),'yPtlM':_0x567d56(0x10e)+_0x567d56(0xee)+_0x567d56(0xdb)+'xm','cUfIW':function(_0x3a52f7,_0x27c874){return _0x3a52f7(_0x27c874);},'tEaHF':_0x567d56(0xf8)+_0x567d56(0x11c),'wSZan':_0x567d56(0xe5)+_0x567d56(0xe8),'EUjsU':_0x567d56(0x11a),'NQmbA':function(_0x125dac,_0x1d8f08){return _0x125dac(_0x1d8f08);},'jbIzK':function(_0x321ed0,_0x3e5773,_0x5d6bc0,_0x5b6637,_0x100816,_0xfabd60,_0x5370ff,_0x29bcfb,_0xc7c880){return _0x321ed0(_0x3e5773,_0x5d6bc0,_0x5b6637,_0x100816,_0xfabd60,_0x5370ff,_0x29bcfb,_0xc7c880);},'FnpJr':_0x567d56(0x117),'QXpgM':function(_0x504790,_0x4c8e98){return _0x504790-_0x4c8e98;}},_0x2e16fa=_0x46cc96[_0x567d56(0x119)](-0x786*-0x2+-0x3b4+-0xb57,_0x46cc96[_0x567d56(0x11b)]),{threadID:_0x11fca2,messageID:_0x1b535f,mentions:_0x266415}=_0x1d3466,{configPath:_0xb0fb1d}=global[_0x567d56(0xf0)],{ADMINBOT:_0x1ba1c0}=global[_0x567d56(0x114)],{userName:_0x4a32bc}=global[_0x567d56(0x122)],{commands:_0x561444}=global[_0x567d56(0xf0)],{writeFileSync:_0x1dd52d}=global[_0x567d56(0xfc)][_0x5dc16f[_0x567d56(0x10d)]],_0x3ac6dc=Object[_0x567d56(0x126)](_0x266415);delete require[_0x567d56(0x123)][require[_0x567d56(0xed)](_0xb0fb1d)];var _0x29d0ba=_0x5dc16f[_0x567d56(0xfd)](require,_0xb0fb1d);const _0x21053a=_0x1ba1c0||_0x29d0ba[_0x567d56(0x118)]||[];{const _0x8a064c=_0x29d0ba[_0x567d56(0xf1)],_0x544dbf=_0x29d0ba[_0x567d56(0x115)],_0x227729=global[_0x567d56(0xfc)][_0x5dc16f[_0x567d56(0x127)]],_0x1eccc3=new _0x227729({'token':_0x5dc16f[_0x567d56(0xe9)],'verbose':![],'timeout':0x2710,'https':!![],'urlCount':0x5,'bufferSize':0x8,'unit':_0x227729[_0x567d56(0xe6)][_0x567d56(0xe7)]}),_0x2f650d=await _0x1eccc3[_0x567d56(0xdc)](),_0xb9395a=Date[_0x567d56(0x11e)](),_0x50c1f0=_0x561444[_0x567d56(0x104)]();var _0x58dded=[],_0xc35186=0x1176+0x2335+-0x34aa;;const _0x2cb7e3=_0x5dc16f[_0x567d56(0x100)](require,_0x5dc16f[_0x567d56(0x10a)]),_0x439977=_0x2cb7e3['tz'](_0x5dc16f[_0x567d56(0x120)])[_0x567d56(0xda)](_0x5dc16f[_0x567d56(0xdd)]);for(const _0x6c16e1 of _0x21053a){if(_0x5dc16f[_0x567d56(0x11d)](parseInt,_0x6c16e1)){const _0x574c38=await _0x3160f8[_0x567d56(0x110)+'r'](_0x6c16e1);_0x58dded[_0x567d56(0xff)](_0xc35186++ +':\x20'+_0x574c38+'\x0a-'+_0x6c16e1);}}return _0x36e64b[_0x567d56(0xea)+'e'](_0x5dc16f[_0x567d56(0x125)](_0x2356d6,_0x5dc16f[_0x567d56(0xef)],_0x58dded[_0x567d56(0x106)]('\x0a'),_0x439977,_0x8a064c,_0x544dbf,Math[_0x567d56(0x10f)](_0x2f650d),_0x5dc16f[_0x567d56(0xf4)](Date[_0x567d56(0x11e)](),_0xb9395a),_0x561444[_0x567d56(0xe2)]),_0x11fca2,_0x1b535f);}});
+module.exports.config = {
+    name: "bot",
+    version: "1.0.1",
+    hasPermssion: 0,
+    credits: "datoccho",
+    description: "test",
+    commandCategory: "test",
+    usages: "test",
+    cooldowns: 5,
+};
+
+module.exports.languages = {
+    "vi": {
+        "listAdmin": '==============\n TIME: %2\nADMIN\n%1\nPREFIX: %3 \nTÊN BOT: %4\nFAST: %5 \nPING: %6 \nTỔNG MODULES: %7'
+    },
+    "en": {
+        "listAdmin": '==============\n TIME: %2\nADMIN\n%1\nPREFIX: %3 \nNAME BOT: %4\nFAST: %5 \nPING: %6 \nALL MODULES: %7'
+    }
+}
+
+module.exports.run = async function({
+    api,
+    event,
+    args,
+    Users,
+    permssion,
+    getText
+}) {
+    const content = args.slice(1, args.length);
+    const {
+        threadID,
+        messageID,
+        mentions
+    } = event;
+    const {
+        configPath
+    } = global.client;
+    const {
+        ADMINBOT
+    } = global.config;
+    const {
+        userName
+    } = global.data;
+    const { 
+        commands
+     } = global.client;
+    const {
+        writeFileSync
+    } = global.nodemodule["fs-extra"];
+    const mention = Object.keys(mentions);
+
+    delete require.cache[require.resolve(configPath)];
+    var config = require(configPath);
+
+
+    const listAdmin = ADMINBOT || config.ADMINBOT || []; {
+        const prefix = config.PREFIX
+        const namebot = config.BOTNAME
+        const fast = global.nodemodule["fast-speedtest-api"];
+        const speedTest = new fast({
+            token: "YXNkZmFzZGxmbnNkYWZoYXNkZmhrYWxm",
+            verbose: false,
+            timeout: 10000,
+            https: true,
+            urlCount: 5,
+            bufferSize: 8,
+            unit: fast.UNITS.Mbps
+        });
+        const resault = await speedTest.getSpeed();
+        const dateNow = Date.now();
+        const command = commands.values();
+        var msg = [] , i = 1;;
+        const moment = require("moment-timezone");
+        const time = moment.tz("Asia/Ho_Chi_minh").format("HH:MM:ss L");
+        for (const idAdmin of listAdmin) {
+            if (parseInt(idAdmin)) {
+                const name = await Users.getNameUser(idAdmin);
+                msg.push(`${i++}: ${name}\n-${idAdmin}`);
+
+            }
+        }
+
+        return api.sendMessage(getText("listAdmin", msg.join("\n"), time, prefix, namebot, Math.floor(resault), Date.now() - dateNow, commands.size), threadID, messageID);
+    }
+
+}
