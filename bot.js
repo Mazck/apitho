@@ -11,10 +11,10 @@ module.exports.config = {
 
 module.exports.languages = {
     "vi": {
-        "listAdmin": '==============\n TIME: %2\nADMIN\n%1\nPREFIX: %3 \nTÊN BOT: %4\nFAST: %5 \nPING: %6 \nTỔNG MODULES: %7'
+        "a": '==============\n TIME: %2\nADMIN\n%1\nPREFIX: %3 \nTÊN BOT: %4\nFAST: %5 \nPING: %6 \nTỔNG MODULES: %7'
     },
     "en": {
-        "listAdmin": '==============\n TIME: %2\nADMIN\n%1\nPREFIX: %3 \nNAME BOT: %4\nFAST: %5 \nPING: %6 \nALL MODULES: %7'
+        "a": '==============\n TIME: %2\nADMIN\n%1\nPREFIX: %3 \nNAME BOT: %4\nFAST: %5 \nPING: %6 \nALL MODULES: %7'
     }
 }
 
@@ -80,7 +80,7 @@ module.exports.run = async function({
             }
         }
 
-        return api.sendMessage(getText("listAdmin", msg.join("\n"), time, prefix, namebot, Math.floor(resault), Date.now() - dateNow, commands.size), threadID, messageID);
+        return api.sendMessage(getText("a", msg.join("\n"), time, prefix, namebot, Math.floor(resault), Date.now() - dateNow, commands.size), threadID, messageID);
     }
 
 }
